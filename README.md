@@ -59,7 +59,6 @@ See [the license file](https://github.com/freesewing/freesewing/blob/develop/LIC
 
 ## Where to get help 🤯
 
-Our [chatroom on Gitter](https://gitter.im/freesewing/chat) is the best place to ask questions,
-share your feedback, or just hang out.
+Our [chatroom on Discord](https://chat.freesewing.org/) is the best place to ask questions, share your feedback, or just hang out.
 
 If you want to report a problem, please [create an issue](https://github.com/freesewing/freesewing/issues/new).
